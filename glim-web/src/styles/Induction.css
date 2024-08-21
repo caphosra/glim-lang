@@ -1,0 +1,14 @@
+.induction {
+    margin: 20px;
+    padding: 20px;
+
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: #63b9ff;
+
+    background-color: white;
+
+    min-width: 100px;
+    min-height: 50px;
+}

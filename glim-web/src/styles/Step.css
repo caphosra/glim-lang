@@ -1,0 +1,16 @@
+.step {
+    margin: 20px;
+    padding: 20px;
+
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: #ff8b48;
+
+    background-color: white;
+
+    min-width: 100px;
+    min-height: 50px;
+
+    width: 30%;
+}
